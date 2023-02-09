@@ -1,0 +1,5 @@
+print("procurando alguem com algum nome 'silva'".upper())
+nome = input("Escreva o seu nome:").strip()
+nome = nome.lower()
+nome = nome.split()
+print('silva' in nome)

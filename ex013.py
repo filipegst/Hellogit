@@ -1,0 +1,6 @@
+print('calculador de aumento')
+p=float(input('o salario inicial é R$:'))
+d=float(input("a porcentagem de aumento é de:"))
+print('o aumento sera de R$:{}'.format((p*d)/100))
+p=(p+(p*d/100))
+print("o salario final sera de R${}".format(p))

@@ -1,0 +1,6 @@
+print('calculador de desconto')
+p=float(input('o valor inicial é:'))
+d=float(input("o valor do desconto e de:"))
+print('o desconto sera de {}'.format((p*d)/100))
+p=(p-(p*d/100))
+print("o valor final sera de {}".format(p))

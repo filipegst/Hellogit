@@ -1,0 +1,5 @@
+print("procurando uma cidade que comece com santo".upper())
+cidade = input("escreva a cidade que voce mora").strip()
+cidade = cidade.lower()
+cidade = cidade.split()
+print('santo' in cidade[0])
