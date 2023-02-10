@@ -7,3 +7,4 @@ if m >= 6.0:
 else:
     print("Infelizmente voce foi reprovado!")
 
+# criando outro commit pra testar o git
