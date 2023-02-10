@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0b38867-9fa9-4548-af19-cd6a3704006e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="a0b38867-9fa9-4548-af19-cd6a3704006e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +50,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\filip\Documents\python" />
       <recent name="C:\Users\filip\Documents\python\venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\filip\Documents\python" />
     </key>
   </component>
   <component name="RunManager" selected="Python.teste">
