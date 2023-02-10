@@ -1,0 +1,16 @@
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>flo.mp3\r\nex033.py
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 286d08dd365e7b2dad8a372daf92e6323102b9c6)
++++ b/.gitignore	(date 1675945466275)
+@@ -1,2 +1,2 @@
+ flo.mp3
+-ex033.py
+\ No newline at end of file
++testegit.py
+\ No newline at end of file
