@@ -1,0 +1,16 @@
+Index: ex033.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>v1 = int(input(\"digite o primeiro valor:\"))\r\nv2 = int(input(\"digite o segundo valor:\"))\r\nv3 = int(input(\"digite o terceiro valor:\"))\r\nmaior = v1\r\nmenor = v3\r\nif v2 > maior:\r\n    maior = v2\r\nif v3 > maior:\r\n    maior = v3\r\nif v2 < menor:\r\n    menor = v2\r\nif v1 < menor:\r\n    menor = v1\r\nprint(\"o maior numero foi {}\".format(maior))\r\nprint(\"o menor numero foi {}\".format(menor))\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/ex033.py b/ex033.py
+--- a/ex033.py	(revision 286d08dd365e7b2dad8a372daf92e6323102b9c6)
++++ b/ex033.py	(date 1675944879471)
+@@ -13,3 +13,4 @@
+     menor = v1
+ print("o maior numero foi {}".format(maior))
+ print("o menor numero foi {}".format(menor))
++#teste pra ver se foi o git ignore
+\ No newline at end of file
